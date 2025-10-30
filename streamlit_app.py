@@ -5,13 +5,13 @@ import pandas as pd
 
 # --- 1. 페이지 기본 설정 ---
 st.set_page_config(
-    page_title="마법소녀",
+    page_title="사관학교",
     page_icon="🔮",
     layout="wide"
 )
 
 # --- 2. 페이지 타이틀 ---
-st.title("마법소녀 🔮")
+st.title("사관학교교 🔮")
 st.subheader("HTML/CSS를 활용해 멋진 효과를 만들어 봐요!")
 st.markdown("---") # 구분선
 
@@ -196,7 +196,7 @@ with col1:
 
 with col2:
     st.write("유튜브 동영상 예제")
-    st.video("https://www.youtube.com/watch?v=j98IpT1mAF4")
+    st.video("https://www.youtube.com/watch?v=R01MW7bvs2w")
 
 # --- 10. 마무리 ---
 st.markdown("---")
