@@ -5,7 +5,7 @@ import pandas as pd
 
 # --- 1. 페이지 기본 설정 ---
 st.set_page_config(
-    page_title="마법소녀 송지훈훈",
+    page_title="마법소녀 송지훈",
     page_icon="🔮",
     layout="wide"
 )
